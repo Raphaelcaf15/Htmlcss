@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Jujutsu Kaisen</title>
+</head>
+<body>
+   <center>
+   <table border="8" cellspacing="4">
+        <tr>
+    <center>
+        <th colspan="4">Jujutsu Kaisen: Personagens</th>
+        </center>
+        </tr>
+        <td>Nome:</td>
+        <td>Idade:</td>
+        <td>Técnica Amaldiçoada:</td>
+        <td>Status:</td>
+    </tr>
+    <tr>
+        <td>Satoru Gojo</td>
+        <td>29 Anos</td>
+        <td>Ilimitado</td>
+        <td>Vivo</td>
+    </tr>
+    <tr>
+        <td>Yuta Okkotsu</td>
+        <td>17 Anos</td>
+        <td>Rika</td>
+        <td>Vivo</td>
+        </tr>
+        <tr>
+        <td>Suguru Geto</td>
+        <td>27 Anos</td>
+        <td>Manipulação do Espírito Amaldiçoado</td>
+        <td>Morto</td>
+        </tr>
+        <tr>
+        <td>Ryōmen Sukuna</td>
+        <td>1000+ Anos</td>
+        <td>Desconhecido</td>
+        <td>Vivo</td>
+        </tr>
+    </table>
+    <footer>
+    <span>raphaelcaf.07@gmail.com</span>
+    </footer>
+</center>
+</body>
+</html>
