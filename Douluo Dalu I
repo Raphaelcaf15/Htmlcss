@@ -1,85 +1,49 @@
 <!DOCTYPE html>
-<html lang="pt">
-<head><!DOCTYPE html>
-    <html lang="pt">
-    <head>
-        <meta charset="UTF-8">
-        <title>Jujutsu Kaisen</title>
-    </head>
-    <body>
-       <center>
-       <table border="8" cellspacing="4">
-            <tr>
-        <center>
-            <th colspan="4">Jujutsu Kaisen: Personagens</th>
-            </center>
-            </tr>
-            <td>Nome:</td>
-            <td>Idade:</td>
-            <td>Técnica Amaldiçoada:</td>
-            <td>Status:</td>
-        </tr>
-        <tr>
-            <td>Satoru Gojo</td>
-            <td>29 Anos</td>
-            <td>Ilimitado</td>
-            <td>Vivo</td>
-        </tr>
-        <tr>
-            <td>Yuta Okkotsu</td>
-            <td>17 Anos</td>
-            <td>Rika</td>
-            <td>Vivo</td>
-            </tr>
-            <tr>
-            <td>Suguru Geto</td>
-            <td>27 Anos</td>
-            <td>Manipulação do Espírito Amaldiçoado</td>
-            <td>Morto</td>
-            </tr>
-            <tr>
-            <td>Ryōmen Sukuna</td>
-            <td>1000+ Anos</td>
-            <td>Desconhecido</td>
-            <td>Vivo</td>
-            </tr>
-        </table>
-        <footer>
-        <span>raphaelcaf.07@gmail.com</span>
-        </footer>
-    </center>
-    </body>
-    </html>
-    
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Douluo Dalu I</title>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
 </head>
 <body>
-    <header>Sou Land I</header>
-    <nav>
-        <a href="Sobre.html">
-            <button>Saiba Mais</button>
-        </a>
-        <br>
-        <a href="Personagens.html">
-        <button> Personagens</button>
-        </a>
-        <br>
-        <a href="História de Fundo.html">
-            <button>História de Fundo</button>
-        </a>
-        <br>
-        <a href="Poderes.html">
-            <button>Poderes</button>
-        </a>
-        <br>
-        <a href="Mundo.html">
-            <button>Mundo</button>
-            </a>
-    </nav>
-    <main></main>
-    <footer></footer>
+    
 </body>
 </html>
+                    <!DOCTYPE html>
+                    <html lang="pt">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>Douluo Dalu I</title>
+                </head>
+                <body>
+                    <header>Sou Land I</header>
+                    <nav>
+                        <a href="/home/aluno/Sobre.html">
+                            <button>Saiba Mais</button>
+                        </a>
+                        <br>
+                        <a href="/home/aluno/Documentos/Personagens.html">
+                        <button> Personagens</button>
+                        </a>
+                        <br>
+                        <a href="/home/aluno/História de Fundo.html">
+                            <button>História de Fundo</button>
+                        </a>
+                        <br>
+                        <a href="/home/aluno/Poderes.html">
+                            <button>Poderes</button>
+                        </a>
+                        <br>
+                        <a href="/home/aluno/Documentos/MundoDouluo.html">
+                            <button>Mundo</button>
+                            </a>
+                    </nav>
+                    <main></main>
+                    <footer></footer>
+                </body>
+                    </html>
